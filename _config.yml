@@ -5,8 +5,8 @@ description: >-
     Including but not limited to; Competitive Programming, Open Source Software, Algorithms and Politics.
 baseurl: "" 
 url: "https://exoji2e.github.io"
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username: exoji2e
+google_analytics: UA-126799249-1
 
 # Build settings
 markdown: kramdown
