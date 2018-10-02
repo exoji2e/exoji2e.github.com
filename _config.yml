@@ -1,0 +1,16 @@
+title: Måns Magnusson
+email: exoji2e@gmail.com
+description: >-
+    My blog, where I write about stuff I find interesting. 
+    Including but not limited to; Competitive Programming, Open Source Software, Algorithms and Politics.
+baseurl: "" 
+url: "https://exoji2e.github.io"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-modernist
+plugins:
+  - jekyll-feed
+
