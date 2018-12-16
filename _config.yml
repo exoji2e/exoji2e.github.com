@@ -1,16 +1,25 @@
-title: Måns Magnusson
+# Site settings
+title: exoji2e's blog
 email: exoji2e@gmail.com
-description: >-
-    My blog, where I write about stuff I find interesting. 
-    Including but not limited to; Competitive Programming, Open Source Software, Algorithms and Politics.
-baseurl: "" 
-url: "https://exoji2e.github.io"
-github_username: exoji2e
+description: > # this means to ignore newlines until "baseurl:"
+  Måns Magnusson
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+github_username:  exoji2e
 google_analytics: UA-126799249-1
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
-plugins:
-  - jekyll-feed
 
+highlighter: rouge
+
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
+
+plugins: [jekyll-paginate]
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
