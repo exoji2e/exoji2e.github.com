@@ -21,3 +21,8 @@ Here I curate some stuff I don't want to lose. I'm planning on organizing it bet
 # Books
 
 - [Harry Potter and the methods of rationality](http://www.hpmor.com/)
+
+# Educational Culture
+- [Dystopia](https://sverigesradio.se/dystopia) Podd about dystopian futures
+- [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) Youtube channel that describes things and science.
+- [Hur Kan Vi](https://www.youtube.com/channel/UCXOYvJ4jo7g3OsvgS2KVP6A) Podd with conversation extremists
