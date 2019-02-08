@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "First post"
 date:   2018-12-16 22:40:00 +0100
 

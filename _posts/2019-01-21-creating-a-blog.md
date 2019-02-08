@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Creating a blog in 2019"
 date:   2019-01-21 00:38:00 +0100
 
