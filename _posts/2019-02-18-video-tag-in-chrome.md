@@ -5,7 +5,7 @@ date:   2019-02-18 14:40:00 +0100
 
 ---
 
-**Update:** There seems to be a problem for me when running the web server locally. Live on github pages both videos seems to work without problems also in Chrome. Tip for tomorrow: preview videos hosted on jekyll with Firefox and not Chrome.
+**Update:** There seems to be a problem for me when running the web server locally. Live on Github pages both videos seems to work without problems also in Chrome. Tip for tomorrow: preview videos hosted on jekyll with Firefox and not Chrome.
 
 This is mostly a test too see if I just have a local jekyll problem or not.
 
@@ -21,7 +21,7 @@ I found out that including:
 Displays fine in Firefox, but on Chrome a black screen shows up, or some times half a second of the video gets loaded. I think it might have to do with the `width="100%`.
 
 
-I recently picked upp picklocking. It's quite fun. Here is a video of me unlocking a test lock with just one tool.
+I recently picked up pick locking. It's quite fun. Here is a video of me unlocking a test lock with just one tool.
 
 <video width="100%" controls>
     <source src="/vids/20190218-lockpick.mp4" type="video/mp4" >
