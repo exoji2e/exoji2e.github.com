@@ -21,7 +21,7 @@ Also the European Parliament wrote a medium post (now deleted, but [archived her
 
 This gives us a view of a very angry and biased European Parliament, since they promote legislation before the parliament has voted about it.
 
-[Protests are scheduled the 23rd of March all around Europe](https://savetheinternet.info/demos), and the vote is scheduled for the 25th of March. Now EPP (European Peoples Party) are [pushing for the vote to be scheduled during next week](https://www.facebook.com/JuliaRedaMEP/posts/2266524776942716) instead. It is absurd and highly undemocratic to push a vote before scheduled protests.
+[Protests are scheduled the 23rd of March all around Europe](https://savetheinternet.info/demos), and the vote is scheduled for the 25th of March. Now EPP (European People's Party) are [pushing for the vote to be scheduled during next week](https://www.facebook.com/JuliaRedaMEP/posts/2266524776942716) instead. It is absurd and highly undemocratic to push a vote before scheduled protests.
 
 What can you do to stop this directive?
 1. [Call a MEP](https://pledge2019.eu/en) and make them pledge to vote against.
