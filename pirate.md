@@ -4,7 +4,7 @@ title: pirate
 id: pirate
 ---
 
-I'm a pirate! And I'm also on the [list for the Swedish Pirate Party to EU 2019](https://www.piratpartiet.se/piratpartiet-presenterar-sin-eu-lista/)!
+I'm a pirate! And I'm also on the [list for the Swedish Pirate Party to EU 2019](https://www.mynewsdesk.com/se/pressreleases/piratpartiet-presenterar-sin-kandidatlista-foer-europaparlamentsvalet-2019-2826209)!
 
 Having representatives from the [Pirate Party](https://www.piratpartiet.se/) in the EU is more important than ever. The EU is currently [trying to pass new copyright directive](https://juliareda.eu/eu-copyright-reform/) that will make Internet platforms, like YouTube, Facebook and Reddit, liable for the copyright infringements their users works create. The copyright lobby wants the platforms to buy licenses from almost everyone, which is impossible, since there exists more than a billion creators. Almost every internet user is a creator. Instead of getting licenses these companies will try to filter away content that are copyright infringements. This method will censor too much since it seems impossible to implement copyright law as an algorithm. For platforms there are very clear economic punishments of not filtering enough copyrighted material, but no punishment for censoring too much content.
 
