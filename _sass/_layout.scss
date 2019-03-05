@@ -89,6 +89,10 @@ width:100%;
     margin-bottom: 0; // Remove margin set in _sass/_base.scss for vertical rythm
 }
 
+.footer-link {
+    color: #fff;
+}
+
 /**
  * Pagination   **********************************************************
  */
@@ -198,8 +202,8 @@ display: table;
 clear: both;
 }
 .project {
-width: 230px;
-height: 250px;
+width: 180px;
+height: 220px;
 float: left;
 vertical-align: middle;
 box-sizing: border-box;
@@ -207,7 +211,7 @@ padding: 10px;
 }
 .thumbnail{
 width: 100%;
-height: 230px;
+height: 180px;
 overflow: hidden;
 }
 .thumbnail img{
@@ -222,8 +226,16 @@ max-height:100%;
 float: left;
 position: relative;
 width: 100%;
-height: 230px;
+height: 180px;
 }
+.project .project-title{
+color: $grey-color;
+text-align: center;
+}
+.thumbnail a:hover .project-title {
+color: $grey-color-light;
+}
+
 .thumbnail a span {
 display: none;
 position: absolute;
@@ -231,9 +243,9 @@ top: 0;
 left: 0;
 bottom: 0;
 right: 0;
-background: rgba(0,0,0,0.4);
+background: rgba(0,0,0,0.6);
 color: $grey-color-light;
-padding: 40px;
+padding: 20px;
 text-align: center;
 }
 .thumbnail a:hover span {

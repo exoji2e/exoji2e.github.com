@@ -8,6 +8,7 @@ permalink: /projects/
 
 {% if project.redirect %}
 <div class="project">
+    <h1 class="project-title">{{ project.title }}</h1>
     <div class="thumbnail">
         <a href="{{ project.redirect }}" target="_blank">
         {% if project.img %}
@@ -16,8 +17,6 @@ permalink: /projects/
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
             <p>{{ project.description }}</p>
         </span>
         </a>
@@ -26,6 +25,7 @@ permalink: /projects/
 {% else %}
 
 <div class="project ">
+    <h1 class="project-title">{{ project.title }}</h1>
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">
         {% if project.img %}
@@ -34,8 +34,6 @@ permalink: /projects/
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
             <p>{{ project.description }}</p>
         </span>
         </a>
