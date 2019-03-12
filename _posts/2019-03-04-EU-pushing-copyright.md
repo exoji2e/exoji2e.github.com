@@ -30,7 +30,7 @@ I wrote [a comment](https://www.facebook.com/europeanparliament/posts/1016170965
 >
 > To conclude: your video is NOT informative at all without clarifications. Why do you publish this video again, when the problems got pointed out the first time?
 
-Also the European Commission wrote a medium post (now deleted, but [archived here](https://web.archive.org/web/20190216094123/https://medium.com/@EuropeanCommission/the-copyright-directive-how-the-mob-was-told-to-save-the-dragon-and-slay-the-knight-b35876008f16)), calling peaceful protesters a mob.
+Also the European Commission wrote a medium post (now deleted, but [archived here](https://web.archive.org/web/20190216094123/https://medium.com/@EuropeanCommission/the-copyright-directive-how-the-mob-was-told-to-save-the-dragon-and-slay-the-knight-b35876008f16)), calling peaceful protesters a mob. **Update: Apparently the archive in unreliable, so [I host a pdf](/cache/20190307-TheCopyrightDirective-howthemobwastoldtosavethedragonandslaytheknight.pdf) of it.**
 
 This gives us a view of a very angry and biased European Parliament, since they promote legislation before the parliament has voted about it.
 
