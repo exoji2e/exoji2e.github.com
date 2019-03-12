@@ -2,6 +2,8 @@
 layout: post
 title:  "Creating a blog in 2019"
 date:   2019-01-21 00:38:00 +0100
+img: "/img/2019/reaching_people.png"
+portrait: true
 
 ---
 
