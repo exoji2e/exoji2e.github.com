@@ -2,6 +2,7 @@
 layout: post
 title:  "EU's undemocratic handling of the copyright directive"
 date:   2019-03-04 15:50:00 +0100
+img: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg"
 
 ---
 

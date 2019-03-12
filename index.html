@@ -6,19 +6,32 @@ layout: default
   <h1>exoji2e's blog</h1>
   <h3>Måns Magnusson</h3>
   <br/>
-  <hr>
+  <hr/>
   <br/>
 </div>
-
 
 <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
-        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <div>
+          <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">
+        <div class="thumbnail-img">
+        {% if post.img %}
+          <img src="{{post.img}}"
+               {% if post.portrait %} class="portrait" {% endif %}
+          />
+        {% else %}
+          <div class="thumbnail blankbox"></div>
+        {% endif %}
+
+        </div>
+        <h4>{{ post.title }}</h4></a>
+        </div>
         <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
         <p>{{ post.description }}</p>
         <br/>
         <hr/>
+        
       </li>
     {% endfor %}
 </ul>

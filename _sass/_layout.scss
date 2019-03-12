@@ -133,6 +133,36 @@ margin: 10px;
 .center{
 text-align: center;
 }
+
+/**
+ * Thumbnail images for posts
+ */
+.thumbnail-img {
+  position: relative;
+  float: left;
+  width: 150px;
+  height: 100px;
+  overflow: hidden;
+  margin-right: 20px;
+}
+.thumbnail-img img {
+  object-fit: cover;
+  object-position: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: 100%;
+  width: auto;
+  -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+}
+.thumbnail-img img.portrait {
+  width: 100%;
+  height: auto;
+}
+
+
 /**
  * Posts  **********************************************************
  */

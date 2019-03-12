@@ -2,6 +2,7 @@
 layout: post
 title:  "Video tag in Chrome"
 date:   2019-02-18 14:40:00 +0100
+img: "/img/2019/20190218-videotag.png"
 
 ---
 

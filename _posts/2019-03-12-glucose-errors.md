@@ -2,6 +2,7 @@
 layout: post
 title:  "Glucose Errors"
 date:   2019-03-12 11:00:00 +0100
+img: /img/2019/20190312-real-glucose.jpg
 
 ---
 
@@ -9,7 +10,7 @@ I've been working on a side project for quite some time now - [Erbil](https://gi
 
 Actually the nfc sensor only measures the glucose in the tissue fluid and not in the blood directly. It is known to be delayed in time compared to the blood. Also I have noticed that what is reported from the sensor is in some arbitrary unit, so there is a problem of translating from that unit to the standard glucose unit.
 
-As a diabetic I control my blood sugar(glucose) value by injecting insulin. In urope the unit `mmol/L` is used, and the goal is to have a glucose value between `4.0` and `9.0`. The manufacturer seems to not care what they show to me if I'm outside this boundary. If I'm at `3.8` their app frequently shows me `3.0`, and if I'm at `12.0` the app can show anything between `13.0` and `17.0`. It seems that they really don't want their app to show a value within the goal when I'm outside the goal, but don't care very much about the accuracy (how much outside the goal I am). This is absurd to me. If I'm too low I need to eat sugar, and I need to know how much sugar to eat. If I'm too high I need to take insulin, and I need to know how much insulin I should take.
+As a diabetic I control my blood sugar(glucose) value by injecting insulin. In Europe the unit `mmol/L` is used, and the goal is to have a glucose value between `4.0` and `9.0`. The manufacturer seems to not care what they show to me if I'm outside this boundary. If I'm at `3.8` their app frequently shows me `3.0`, and if I'm at `12.0` the app can show anything between `13.0` and `17.0`. It seems that they really don't want their app to show a value within the goal when I'm outside the goal, but don't care very much about the accuracy (how much outside the goal I am). This is absurd to me. If I'm too low I need to eat sugar, and I need to know how much sugar to eat. If I'm too high I need to take insulin, and I need to know how much insulin I should take.
 
 Have a look at my values this morning:
 
