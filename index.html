@@ -13,22 +13,24 @@ layout: default
 <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
-        <div>
+        <div id="flex-container">
           <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">
-        <div class="thumbnail-img">
-        {% if post.img %}
-          <img src="{{post.img}}"
-               {% if post.portrait %} class="portrait" {% endif %}
-          />
-        {% else %}
-          <div class="thumbnail blankbox"></div>
-        {% endif %}
+          <div id="thumbnail-img">
+          {% if post.img %}
+            <img src="{{post.img}}"
+                 {% if post.portrait %} class="portrait" {% endif %}
+            />
+          {% else %}
+            <div class="thumbnail blankbox"></div>
+          {% endif %}
 
+          </div>
+          <div  style="display:block;text-align:left">
+            <h4>{{ post.title }}</h4></a>
+            <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
+            <p>{{ post.description }}</p>
+          </div>
         </div>
-        <h4>{{ post.title }}</h4></a>
-        </div>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
-        <p>{{ post.description }}</p>
         <br/>
         <hr/>
         
