@@ -2,10 +2,24 @@
 layout: default
 ---
 <div class="post">
-
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%B %-d, %Y — %H:%M" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <div id="flex-container">
+      <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">
+      <div id="thumbnail-img">
+      {% if page.img %}
+        <img src="{{page.img}}"
+             {% if page.portrait %} class="portrait" {% endif %}
+        />
+      {% else %}
+        <div class="thumbnail blankbox"></div>
+      {% endif %}
+
+      </div>
+      <div  style="display:block;text-align:left">
+        <h4>{{ page.title }}</h4></a>
+        <p class="post-meta">{{ page.date | date: '%B %-d, %Y' }}</p>
+      </div>
+    </div>
   </header>
 
   <article class="post-content">
