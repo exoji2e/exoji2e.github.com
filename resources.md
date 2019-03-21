@@ -8,7 +8,7 @@ Here I curate some stuff I don't want to lose. I'm planning on organizing it bet
 # Blogs
 
 - [Julia Reda](https://juliareda.eu/en) (Member of EU parlament; German Pirate)
-- [Femte Juli](https://femtejuli.se/) (blogg/podd)
+- [Femte Juli](https://femtejuli.se/) (blogg/pod)
 - [Emanuel Karlsen](https://emanuelkarlsten.se/) (journalist at gp, breakit)
 - [Moxie Marlinspike](https://moxie.org/) (creator of Signal)
 - [Bahnhof](https://www.bahnhof.se/press)
@@ -27,6 +27,7 @@ Here I curate some stuff I don't want to lose. I'm planning on organizing it bet
 - [A Matematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 
 # Educational Culture
-- [Dystopia](https://sverigesradio.se/dystopia) Podd about dystopian futures
+- [Dystopia](https://sverigesradio.se/dystopia) Pod about dystopian futures
 - [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) Youtube channel that describes things and science.
-- [Hur Kan Vi](https://www.youtube.com/channel/UCXOYvJ4jo7g3OsvgS2KVP6A) Podd with conversation extremists
+- [Hur Kan Vi](https://www.youtube.com/channel/UCXOYvJ4jo7g3OsvgS2KVP6A) Pod with conversation extremists.
+- [Henrik Jönsson](https://www.youtube.com/channel/UCQmwkvc1eVuIfxjIq6JvWtg) Educational videos on politics, internet, democracy.
