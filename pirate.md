@@ -15,3 +15,7 @@ If I become elected I will:
 2. Increase transparency of the EU by writing about the work - like [Julia Reda](https://juliareda.eu) has done the last 5 years.
 3. Make sure to [continue to criticize](https://computersweden.idg.se/2.2683/1.691385/datalagringsutredning) Sweden for continuing to require general data retention of the entire population even though the [European Court of Justice determined](http://curia.europa.eu/juris/document/document.jsf?text=&docid=186492&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=513449) that requiring general data retention is not compatible with the Fundamental Rights of the European Union.
 4. Stand up for a free and open internet.
+
+Public appearances related to the Pirate party:
+- [Opinion piece on copyright](https://computersweden.idg.se/2.2683/1.716324/upphovsratten-ar-en-skam-for-demokratin) (2019 mar)
+- [Opinion piece on data retention](https://computersweden.idg.se/2.2683/1.691385/datalagringsutredning) (2017 oct)
