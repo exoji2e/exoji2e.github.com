@@ -1,8 +1,13 @@
 ---
-layout: page
+layout: page-noheader
 title: pirate
 id: pirate
 ---
+
+
+<a href="https://www.piratpartiet.se/">
+![pp-logo](/img/pp-logo.svg){:width="100%"}
+</a>
 
 I'm a pirate! And I'm also on the [list for the Swedish Pirate Party to EU 2019](https://www.mynewsdesk.com/se/pressreleases/piratpartiet-presenterar-sin-kandidatlista-foer-europaparlamentsvalet-2019-2826209)!
 
@@ -19,3 +24,4 @@ If I become elected I will:
 Public appearances related to the Pirate party:
 - [Opinion piece on copyright](https://computersweden.idg.se/2.2683/1.716324/upphovsratten-ar-en-skam-for-demokratin) (2019 mar)
 - [Opinion piece on data retention](https://computersweden.idg.se/2.2683/1.691385/datalagringsutredning) (2017 oct)
+
