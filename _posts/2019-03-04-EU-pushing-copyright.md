@@ -16,10 +16,9 @@ Almost 5 million European citizens have [signed a petition](https://www.change.o
 
 The official channel of the European Parliament on Facebook has twice shared a video that is greatly misleading about the copyright directive:
 
-<div class="iframe-container" style="padding-bottom:100%">
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Feuropeanparliament%2Fvideos%2F2284163288487248%2F&width=500&show_text=false&height=500&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
-</div>
-
+<video width="100%" controls>
+    <source src="/vids/20190304-eup-facebook-new-copyright.mp4" type="video/mp4" >
+</video>
 I wrote [a comment](https://www.facebook.com/europeanparliament/posts/10161709651940107?comment_id=10161709743720107) describing the problems:
 > Hi European Parliament. Now you re-posted this video again. Still with the misleading text "Parliament reached a new agreement", while there still has not been a vote. And also with Axel Voss presenting the criteria for exceptions incorrectly. According to article 13 your platform need to fulfill all 3 criteria:
 1. Younger than 3 years
@@ -36,9 +35,9 @@ This gives us a view of a very angry and biased European Parliament, since they 
 
 [Protests are scheduled the 23rd of March all around Europe](https://savetheinternet.info/demos), and the vote is scheduled for the 25th of March. Now EPP (European People's Party) are [pushing for the vote to be scheduled during next week](https://www.facebook.com/JuliaRedaMEP/posts/2266524776942716) instead. It is absurd and highly undemocratic to push a vote before scheduled protests, which Julia Reda nicely explains in her vlog.
 
-<div class="iframe-container">
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FJuliaRedaMEP%2Fvideos%2F291340948229839%2F%3F__tn__%3D%252Cd%252CP-R%26eid%3DARBEP8lAo7ntBQTd3GcD9O0m87DSvm9JLEbCARQNWa2ge0OIGXEmCWdaUDXf9fo87n8HaHL09MEBQ6NT&width=500&show_text=false&height=280&appId" width="500" height="280" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
-</div>
+<video width="100%" controls>
+    <source src="/vids/20190304-juliareda-facebook-epp-moving-vote.mp4" type="video/mp4" >
+</video>
 
 Here is a list of what you can do to stop this directive!
 1. [Call a MEP](https://pledge2019.eu/en) and make them pledge to vote against.
