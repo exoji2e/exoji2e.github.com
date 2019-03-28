@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/mans_telaviv.jpg">
+<img class="col one right" src="/img/mans_wall.jpg">
 
 My name is Måns Magnusson. I'm a software engineer with a MSc in Algorithms from Lund University (note: physics is unfairly scribbled all over my diploma). 
 
