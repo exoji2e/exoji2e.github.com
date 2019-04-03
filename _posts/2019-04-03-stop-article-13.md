@@ -12,7 +12,7 @@ The vote about "opening up for voting about changes in the directive" were lost 
 
 ![poster](/img/2019/20190403-stefanmeme.jpg){:width="100%"}
 
-There still exists some hope to stop the directive. The EU Council still have to approve the text formally. The most probable way that this directive can be stopped is if at least member states representing 35% of the population vote no. Currently the following member states are [against the directive](https://www.permanentrepresentations.nl/permanent-representations/pr-eu-brussels/documents/policy-notes/2019/02/20/joint-statement-regarding-the-copyright-directive):
+There still exists some hope to stop the directive. The EU Council still have to approve the text formally. The most probable way that this directive can be stopped is if member states representing at least 35% of the population vote no. Currently the following member states are [against the directive](https://www.permanentrepresentations.nl/permanent-representations/pr-eu-brussels/documents/policy-notes/2019/02/20/joint-statement-regarding-the-copyright-directive):
 - The Netherlands
 - Finland
 - Italy
