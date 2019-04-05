@@ -2,7 +2,7 @@
 layout: post
 title:  "Stopping Article 17(prev: 13)"
 date:   2019-04-03 14:40:00 +0200
-img: "/img/2019/20190402-saveyourinternet.jpg"
+img: "/img/2019/20190403-saveyourinternet.jpg"
 
 ---
 
