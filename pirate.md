@@ -29,6 +29,7 @@ If I become elected I will:
 4. Stand up for a free and open internet.
 
 Public appearances related to the Pirate party:
+- [Speech at demonstration in Lund](https://www.youtube.com/embed/0yL9rLGmny0?start=2176) (2019 apr)
 - [Opinion piece on copyright](https://computersweden.idg.se/2.2683/1.716324/upphovsratten-ar-en-skam-for-demokratin) (2019 mar)
 - [Opinion piece on data retention](https://computersweden.idg.se/2.2683/1.691385/datalagringsutredning) (2017 oct)
 
