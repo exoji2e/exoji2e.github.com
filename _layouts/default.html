@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html>
 
+<head>
   {% include head.html %}
+  {% if page.img %}
+  <meta property="og:image" content="{{ page.img }}">
+  <meta name="twitter:image" content="{{ page.img }}">
+  {% endif %}
+</head>
 
   <body>
 
