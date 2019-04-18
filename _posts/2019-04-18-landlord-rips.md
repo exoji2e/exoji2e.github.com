@@ -2,7 +2,7 @@
 layout: post
 title:  "When your landlord tries to rip you off ..."
 date:   2019-04-18 20:00:00 +0200
-img: "/img/2019/20190418-lock.jpg"
+img: "/img/2019/20190418-lock.png"
 portrait: true
 
 ---
