@@ -3,15 +3,14 @@ layout: default
 ---
 
 <div class="header-bar">
-  <h1>exoji2e's blog</h1>
-  <h3>Måns Magnusson</h3>
+  <h1>All posts</h1>
   <br/>
   <hr/>
   <br/>
 </div>
 
 <ul class="post-list">
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
       <li>
         <div id="flex-container">
           <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">
@@ -37,7 +36,3 @@ layout: default
       </li>
     {% endfor %}
 </ul>
-<div class="header-bar">
-<h3><a href="/all">All Posts</a></h3>
-  <hr/>
-</div>
