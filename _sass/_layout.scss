@@ -261,8 +261,9 @@ clear: both;
 }
 .project {
 width: 180px;
-height: 220px;
-float: left;
+height: 280px;
+//float: left;
+display: inline-block;
 vertical-align: middle;
 box-sizing: border-box;
 padding: 10px;
@@ -313,6 +314,9 @@ display: block;
  * Portfolio pages **********************************************************
 */
 .blankbox{
+width: 100%;
+position: relative;
+max-height:100%;
 background: $theme-color;
 }
 .img_row{

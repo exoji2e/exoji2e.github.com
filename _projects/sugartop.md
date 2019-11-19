@@ -1,7 +1,8 @@
 ---
 layout: page
-title: erbil
+title: Sugartop
 description: "Android app for monitoring and logging glucose levels"
-redirect: "https://github.com/exoji2e/Erbil"
+img: "/img/sugartop.png"
+redirect: "https://github.com/exoji2e/Sugartop"
 
 ---
