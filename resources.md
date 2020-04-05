@@ -3,7 +3,7 @@ layout: page
 title: resources
 ---
 
-Here I curate some stuff I don't want to lose. I'm planning on organizing it better later.
+Here I curate some stuff I don't want to lose.
 
 # Blogs
 
@@ -22,12 +22,14 @@ Here I curate some stuff I don't want to lose. I'm planning on organizing it bet
 
 # Books
 
+- [Permanent Record - Edward Snowden](https://en.wikipedia.org/wiki/Permanent_Record_(autobiography))
+- [Konsulterna: Kampen om karolinska](/posts/2019-09-19-konsulterna)
 - [Harry Potter and the methods of rationality](http://www.hpmor.com/) - [review](https://www.goodreads.com/review/show/1746658807)
 - [Surely You're Joking, Mr. Feynman!](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!) - [review](https://www.goodreads.com/review/show/2350192715)
-- [A Matematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+- [A Matematician's Lament - Paul Lockhart](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 
 # Educational Culture
+- [Rising](https://www.youtube.com/channel/UCPWXiRWZ29zrxPFIQT7eHSA) Youtube show covering american politics from a populist persepctive.
 - [Dystopia](https://sverigesradio.se/dystopia) Pod about dystopian futures
 - [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) Youtube channel that describes things and science.
-- [Hur Kan Vi](https://www.youtube.com/channel/UCXOYvJ4jo7g3OsvgS2KVP6A) Pod with conversation extremists.
-- [Henrik Jönsson](https://www.youtube.com/channel/UCQmwkvc1eVuIfxjIq6JvWtg) Educational videos on politics, internet, democracy.
+- [Ett skepp kommer lastat](https://piratpartiet.se/nyheter/avsnitt-1-ett-skepp-kommer-lastat-oracle-stammer-google-for-upphovsrattsintrang-och-kan-canonical-bli-uppkopt-av-amazon/)
