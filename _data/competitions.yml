@@ -1,0 +1,56 @@
+# Programming Competitions
+
+- name: Google Hash Code
+  url: https://codingcompetitions.withgoogle.com/hashcode/
+  month: February
+  type: Optimization
+  tags:
+      - team
+
+- name: Google Kickstart
+  url: https://codingcompetitions.withgoogle.com/kickstart
+  month: March
+  type: Algorithms
+  tags:
+      - beginner
+
+- name: Google Code Jam
+  url: https://codingcompetitions.withgoogle.com/codejam/ 
+  month: April
+  type: Algorithms
+
+- name: Facebook Hacker Cup
+  url: https://www.facebook.com/hackercup/
+  month: June
+  type: Algorithms
+
+- name: Codingcup
+  url: https://codingcup.se/
+  month: September
+  type: Algorithms
+  tags:
+      - sweden
+
+- name: Nordic Collegiate Programming Contest
+  url: https://nordic.icpc.io
+  month: October
+  type: Algorithms
+  tags:
+      - team
+      - nordic
+
+- name: SnackDown
+  url: https://www.codechef.com/snackdown
+  month: October
+  type: Algorithms
+  tags:
+      - team
+
+- name: Advent of Code
+  url: https://adventofcode.com/
+  month: December
+  type: Misc
+  tags:
+      - beginner
+
+
