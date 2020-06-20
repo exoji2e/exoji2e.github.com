@@ -9,29 +9,18 @@ id: pirate
 ![pp-logo](/img/pp-logo.svg){:width="100%"}
 </a>
 
-<img class="col one right" src="/img/mans_wall.jpg">
+I'm a proud member of the Pirate Party in Sweden. 
 
-I'm a pirate! And I'm also on the [list for the Swedish Pirate Party to EU 2019](https://www.mynewsdesk.com/se/pressreleases/piratpartiet-presenterar-sin-kandidatlista-foer-europaparlamentsvalet-2019-2826209)!
+During 2020 I'm a board member of [Ung Pirat](https://ungpirat.se).
 
-If you want to help out in my campaign or in the general campaign for the Pirate party, you can:
-- Become a member of the pirate party at [blipirat.nu](https://blipirat.nu).
-- Talk to your friends and family about the Pirate party and digital politics.
-- Contact me directly and ask how you can help out.
-
-Having representatives from the [Pirate Party](https://www.piratpartiet.se/) in the EU is more important than ever. The EU is currently [trying to pass new copyright directive](https://juliareda.eu/eu-copyright-reform/) that will make Internet platforms, like YouTube, Facebook and Reddit, liable for the copyright infringements their users works create. The copyright lobby wants the platforms to buy licenses from almost everyone, which is impossible, since there exists more than a billion creators. Almost every internet user is a creator. Instead of getting licenses these companies will try to filter away content that are copyright infringements. This method will censor too much since it seems impossible to implement copyright law as an algorithm. For platforms there are very clear economic punishments of not filtering enough copyrighted material, but no punishment for censoring too much content.
-
-The only reason this is discussed, and is not law yet is the only pirate in the EU, Julia Reda. EU needs more pirates, and more people who understands the Internet, computers and technology. The digital society is society, and we can't have politicians who doesn't care or know anything about it.
-
-If I become elected I will:
-1. Try to reform copyright law: a maximum of 20 years of protection, and a wider protection for private use.
-2. Increase transparency of the EU by writing about the work - like [Julia Reda](https://juliareda.eu) has done the last 5 years.
-3. Make sure to [continue to criticize](https://computersweden.idg.se/2.2683/1.691385/datalagringsutredning) Sweden for continuing to require general data retention of the entire population even though the [European Court of Justice determined](http://curia.europa.eu/juris/document/document.jsf?text=&docid=186492&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=513449) that requiring general data retention is not compatible with the Fundamental Rights of the European Union.
-4. Stand up for a free and open internet.
+I was on the ballot for the EU parliament in 2019, and I received 174 personkryss - not a lot, but considering being a newb in a small party, I'm quite happy about it. The Swedish Pirate party received 0.66% of the votes, which is way below what we would have hoped for. However we are happy that Germany sent one pirate and the Czech Republic sent 3 pirates to the European Parliament!
 
 Public appearances related to the Pirate party:
-- [Opinion piece on data retention](https://www.nyteknik.se/opinion/eu-domen-ar-glasklar-datalagringen-ar-olaglig-6964169) (2019 july)
-- [Opinion piece on mandatory drug tests in schools being a bad idea](https://www.svt.se/opinion/vaga-lita-pa-ungdomarna-istallet-for-att-straffa-dem) (2019 july)
-- [Speech at demonstration in Lund](https://www.youtube.com/embed/0yL9rLGmny0?start=2176) (2019 apr)
-- [Opinion piece on copyright](https://computersweden.idg.se/2.2683/1.716324/upphovsratten-ar-en-skam-for-demokratin) (2019 mar)
-- [Opinion piece on data retention](https://computersweden.idg.se/2.2683/1.691385/datalagringsutredning) (2017 oct)
+- [Opinion piece on a new Swedish law: Hemlig dataavläsning](https://www.nyteknik.se/opinion/sakerhet-eller-avlyssning-du-maste-valja-damberg-6977346) (2019 Nov)
+- [Opinion piece on the risks of introducing electronical elections](https://www.nyteknik.se/opinion/alldeles-for-riskabelt-att-infora-elektroniska-val-6968344) (2019 Aug)
+- [Opinion piece on data retention](https://www.nyteknik.se/opinion/eu-domen-ar-glasklar-datalagringen-ar-olaglig-6964169) (2019 Jul)
+- [Opinion piece on mandatory drug tests in schools being a bad idea](https://www.svt.se/opinion/vaga-lita-pa-ungdomarna-istallet-for-att-straffa-dem) (2019 Jul)
+- [Speech at demonstration in Lund](https://www.youtube.com/embed/0yL9rLGmny0?start=2176) (2019 Apr)
+- [Opinion piece on copyright](https://computersweden.idg.se/2.2683/1.716324/upphovsratten-ar-en-skam-for-demokratin) (2019 Mar)
+- [Opinion piece on data retention](https://computersweden.idg.se/2.2683/1.691385/datalagringsutredning) (2017 Oct)
 
