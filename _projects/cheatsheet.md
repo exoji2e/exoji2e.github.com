@@ -5,7 +5,10 @@ title: Cheat sheet
 
 Collecting programming related examples of things I find hard to remember
 
-# Linux cli tools
+## Linux cli tools
+<br/>
+### grep
+<br/>
 
 `grep -i -A 1 -B 2 -e "herp"`
 
@@ -17,20 +20,34 @@ Collecting programming related examples of things I find hard to remember
 
 - r: recursive grep in folder specified.
 
+### find
+<br/>
 
 `find ${path} -name ${name-pattern}`
 
-# Manjaro
+
+### pdftk
+<br/>
+
+Merging pdfs: `pdftk in1.pdf in2.pdf output out.pdf`
+
+Deleting second page of pdf: `pdftk in.pdf cat 1 3-end output out.pdf`
+
+## Manjaro
+
+<br/>
 
 Default file manager: `pcmanfm`.
 
 Search for all printers on network: `avahi-browse -a | grep Printer`
 
-# Markdown
+## Markdown
+<br/>
 [Markdown Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-# Java
+## Java
+<br/>
 
 
 Extracting exception stack trace as string:
@@ -47,7 +64,8 @@ try{
 ```
 
 
-# Kotlin
+## Kotlin
+<br/>
 
 MainClass is renamed from Name to NameKt.
 
@@ -58,7 +76,9 @@ MainClass is renamed from Name to NameKt.
     kotlin "$v"Kt
 ```
 
-# Android
+## Android
+<br/>
+
 List all apps on connected device:
 
 `adb shell pm list packages -f`
