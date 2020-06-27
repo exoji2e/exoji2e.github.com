@@ -20,6 +20,9 @@ Collecting programming related examples of things I find hard to remember
 
 `find ${path} -name ${name-pattern}`
 
+# Manjaro
+
+Default file manager: `pcmanfm`.
 
 # Markdown
 [Markdown Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
