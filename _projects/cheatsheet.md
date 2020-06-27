@@ -24,6 +24,8 @@ Collecting programming related examples of things I find hard to remember
 
 Default file manager: `pcmanfm`.
 
+Search for all printers on network: `avahi-browse -a | grep Printer`
+
 # Markdown
 [Markdown Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
