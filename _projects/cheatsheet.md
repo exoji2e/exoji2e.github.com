@@ -41,6 +41,8 @@ Default file manager: `pcmanfm`.
 
 Search for all printers on network: `avahi-browse -a | grep Printer`
 
+Install zfs: `yay -S zfs-dkms`
+
 ## Markdown
 <br/>
 [Markdown Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
