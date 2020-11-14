@@ -16,6 +16,8 @@ During 2020 I'm a board member of [Ung Pirat](https://ungpirat.se).
 I was on the ballot for the EU parliament in 2019, and I received 174 personkryss - not a lot, but considering being a newb in a small party, I'm quite happy about it. The Swedish Pirate party received 0.66% of the votes, which is way below what we would have hoped for. However we are happy that Germany sent one pirate and the Czech Republic sent 3 pirates to the European Parliament!
 
 Public appearances related to the Pirate party:
+- [Reply Opinon piece on FRA](https://www.svd.se/det-handlar-om-ett-politiskt-vagval) (2020 Nov)
+- [Opinion piece on not trusting FRA (Swedish SIGINT)](https://www.svd.se/fra-far-snart-massovervaka-hela-folket) (2020 Nov)
 - [Opinion piece on a new Swedish law: Hemlig dataavläsning](https://www.nyteknik.se/opinion/sakerhet-eller-avlyssning-du-maste-valja-damberg-6977346) (2019 Nov)
 - [Opinion piece on the risks of introducing electronical elections](https://www.nyteknik.se/opinion/alldeles-for-riskabelt-att-infora-elektroniska-val-6968344) (2019 Aug)
 - [Opinion piece on data retention](https://www.nyteknik.se/opinion/eu-domen-ar-glasklar-datalagringen-ar-olaglig-6964169) (2019 Jul)
