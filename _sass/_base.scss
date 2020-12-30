@@ -25,6 +25,7 @@ $caption_color: #aaa;
 
 /* COLORS  */
 $red:  #FF3636;
+$dark-red:  #DF2626;
 $orange: #F29105;
 $blue: #2698BA;
 $green: #11D68B;
@@ -38,6 +39,7 @@ $text-color:     #222;
 
 /* Set theme color *************************/
 $theme-color:   $red;
+$theme-color-dark:   $dark-red;
 
 
 /************************************************************/
@@ -141,6 +143,7 @@ article a {
 
     &:hover {
         text-decoration: none;
+        color: $theme-color-dark;
     }
 }
 
