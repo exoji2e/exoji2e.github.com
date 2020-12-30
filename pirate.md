@@ -2,6 +2,7 @@
 layout: page-noheader
 title: pirate
 id: pirate
+intopnav: true
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: resources
+intopnav: true
 ---
 
 Here I curate some stuff I don't want to lose.

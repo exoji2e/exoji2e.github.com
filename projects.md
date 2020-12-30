@@ -2,6 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
+intopnav: true
 ---
 
 <div class="row">
