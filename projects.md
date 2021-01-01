@@ -28,7 +28,7 @@ intopnav: true
         {% else %}
 
         <div class="project ">
-            <h1 class="project-title">{{ project.title }}</h1>
+            <h1 style="height:60px;" class="project-title">{{ project.title }}</h1>
             <div class="thumbnail">
                 <a href="{{ site.baseurl }}{{ project.url }}">
                 {% if project.img %}
